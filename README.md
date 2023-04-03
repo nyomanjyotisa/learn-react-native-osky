@@ -1,4 +1,4 @@
-# learn-react-native-osky
+# Screenshots
 
 Start Screen
 
